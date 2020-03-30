@@ -1,3 +1,9 @@
+
+## DEPRECATED
+
+This repository has been moved here [berkeleypayment/pungle-sdk-ios](https://github.com/berkeleypayment/pungle-sdk-ios)
+
+
 v 0.5.4
 
 ## Installation
